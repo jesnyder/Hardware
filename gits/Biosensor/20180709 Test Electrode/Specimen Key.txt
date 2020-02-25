@@ -1,9 +1,0 @@
-No,Name,Protocol,,,Specimen,Filename Baseline,Filename with Probe,Filename with Target
-1,1,HCL, Baseline,.txt,1HCL,1HCL Baseline.txt,1HCL After Probe DNA.txt,1HCL After Target DNA.txt
-2,2,HCL, After Probe DNA, ,2HCL,2HCL Baseline.txt,2HCL After Probe DNA.txt,2HCL After Target DNA.txt
-3,3,HCL, After Target DNA, ,3HCL,3HCL Baseline.txt,3HCL After Probe DNA.txt,3HCL After Target DNA.txt
-4,4,HCL, , ,4HCL,4HCL Baseline.txt,4HCL After Probe DNA.txt,4HCL After Target DNA.txt
-5,5,NHS,,,5NHS,5NHS Baseline.txt,5NHS After Probe DNA.txt,5NHS After Target DNA.txt
-6,6,NHS,,,6NHS,6NHS Baseline.txt,6NHS After Probe DNA.txt,6NHS After Target DNA.txt
-7,7,NHS,,,7NHS,7NHS Baseline.txt,7NHS After Probe DNA.txt,7NHS After Target DNA.txt
-8,8,NHS,,,8NHS,8NHS Baseline.txt,8NHS After Probe DNA.txt,8NHS After Target DNA.txt
