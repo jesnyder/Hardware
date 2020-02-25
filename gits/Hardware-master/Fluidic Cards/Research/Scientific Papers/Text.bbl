@@ -1,0 +1,35 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Rao et~al.(2007)Rao, Liu, and Zhang]{rao2007preparation}
+Hua-Xin Rao, Fan-Na Liu, and Zi-Yong Zhang.
+\newblock Preparation and oxygen/nitrogen permeability of pdms crosslinked
+  membrane and pdms/tetraethoxysilicone hybrid membrane.
+\newblock \emph{Journal of Membrane Science}, 303\penalty0 (1-2):\penalty0
+  132--139, 2007.
+
+\bibitem[Firpo et~al.(2015)Firpo, Angeli, Repetto, and
+  Valbusa]{firpo2015permeability}
+G~Firpo, E~Angeli, L~Repetto, and U~Valbusa.
+\newblock Permeability thickness dependence of polydimethylsiloxane (pdms)
+  membranes.
+\newblock \emph{Journal of Membrane Science}, 481:\penalty0 1--8, 2015.
+
+\bibitem[Johnston et~al.(2014)Johnston, McCluskey, Tan, and
+  Tracey]{johnston2014mechanical}
+ID~Johnston, DK~McCluskey, CKL Tan, and MC~Tracey.
+\newblock Mechanical characterization of bulk sylgard 184 for microfluidics and
+  microengineering.
+\newblock \emph{Journal of Micromechanics and Microengineering}, 24\penalty0
+  (3):\penalty0 035017, 2014.
+
+\bibitem[Dow(2018)]{Slygard184ProductSheet}
+Dow.
+\newblock Dow sylgard 184 silicone encapsulant clear: Product details.
+\newblock \emph{Ellsworth Adhesives}, 1\penalty0 (1):\penalty0 1, 2018.
+
+\end{thebibliography}
