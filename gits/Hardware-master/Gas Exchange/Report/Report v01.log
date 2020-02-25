@@ -1,0 +1,956 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  20 FEB 2020 16:19
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"Report v01.tex"
+(./Report v01.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(./Report v01.aux)
+\openout1 = `"Report v01.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+
+
+LaTeX Warning: No \author given.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 24.
+
+LaTeX Warning: File ` A3.png' not found on input line 34.
+
+< A3.png, id=1, 950.55125pt x 1042.89626pt>
+File:  A3.png Graphic file (type png)
+ <use  A3.png>
+Package pdftex.def Info:  A3.png used on input line 34.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 34--35
+ [][] 
+ []
+
+
+LaTeX Warning: File ` A4.png' not found on input line 39.
+
+< A4.png, id=3, 950.55125pt x 1042.89626pt>
+File:  A4.png Graphic file (type png)
+ <use  A4.png>
+Package pdftex.def Info:  A4.png used on input line 39.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 39--40
+ [][] 
+ []
+
+
+LaTeX Warning: File ` A5.png' not found on input line 44.
+
+< A5.png, id=4, 950.55125pt x 1042.89626pt>
+File:  A5.png Graphic file (type png)
+ <use  A5.png>
+Package pdftex.def Info:  A5.png used on input line 44.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 44--45
+ [][] 
+ []
+
+
+LaTeX Warning: File ` A6.png' not found on input line 49.
+
+< A6.png, id=5, 950.55125pt x 1042.89626pt>
+File:  A6.png Graphic file (type png)
+ <use  A6.png>
+Package pdftex.def Info:  A6.png used on input line 49.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 49--50
+ [][] 
+ []
+
+
+LaTeX Warning: File ` A7.png' not found on input line 54.
+
+< A7.png, id=6, 950.55125pt x 1042.89626pt>
+File:  A7.png Graphic file (type png)
+ <use  A7.png>
+Package pdftex.def Info:  A7.png used on input line 54.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 54--55
+ [][] 
+ []
+
+
+LaTeX Warning: File ` A8.png' not found on input line 59.
+
+< A8.png, id=7, 950.55125pt x 1042.89626pt>
+File:  A8.png Graphic file (type png)
+ <use  A8.png>
+Package pdftex.def Info:  A8.png used on input line 59.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 59--60
+ [][] 
+ []
+
+
+LaTeX Warning: File ` A9.png' not found on input line 64.
+
+< A9.png, id=8, 950.55125pt x 1042.89626pt>
+File:  A9.png Graphic file (type png)
+ <use  A9.png>
+Package pdftex.def Info:  A9.png used on input line 64.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 64--65
+ [][] 
+ []
+
+
+LaTeX Warning: File ` A10.png' not found on input line 69.
+
+< A10.png, id=9, 950.55125pt x 1042.89626pt>
+File:  A10.png Graphic file (type png)
+ <use  A10.png>
+Package pdftex.def Info:  A10.png used on input line 69.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 69--70
+ [][] 
+ []
+
+
+LaTeX Warning: File ` A11.png' not found on input line 74.
+
+< A11.png, id=10, 957.5775pt x 1042.89626pt>
+File:  A11.png Graphic file (type png)
+ <use  A11.png>
+Package pdftex.def Info:  A11.png used on input line 74.
+(pdftex.def)             Requested size: 478.78758pt x 521.44685pt.
+
+Overfull \hbox (133.78758pt too wide) in paragraph at lines 74--75
+ [][] 
+ []
+
+
+LaTeX Warning: File ` A12.png' not found on input line 79.
+
+< A12.png, id=11, 950.55125pt x 1042.89626pt>
+File:  A12.png Graphic file (type png)
+ <use  A12.png>
+Package pdftex.def Info:  A12.png used on input line 79.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 79--80
+ [][] 
+ []
+
+
+LaTeX Warning: File ` B1.png' not found on input line 84.
+
+< B1.png, id=12, 957.5775pt x 1042.89626pt>
+File:  B1.png Graphic file (type png)
+ <use  B1.png>
+Package pdftex.def Info:  B1.png used on input line 84.
+(pdftex.def)             Requested size: 478.78758pt x 521.44685pt.
+
+Overfull \hbox (133.78758pt too wide) in paragraph at lines 84--85
+ [][] 
+ []
+
+
+LaTeX Warning: File ` B2.png' not found on input line 89.
+
+< B2.png, id=13, 950.55125pt x 1042.89626pt>
+File:  B2.png Graphic file (type png)
+ <use  B2.png>
+Package pdftex.def Info:  B2.png used on input line 89.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 89--90
+ [][] 
+ []
+
+
+LaTeX Warning: File ` B3.png' not found on input line 94.
+
+< B3.png, id=14, 950.55125pt x 1042.89626pt>
+File:  B3.png Graphic file (type png)
+ <use  B3.png>
+Package pdftex.def Info:  B3.png used on input line 94.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 94--95
+ [][] 
+ []
+
+
+LaTeX Warning: File ` B4.png' not found on input line 99.
+
+< B4.png, id=15, 950.55125pt x 1042.89626pt>
+File:  B4.png Graphic file (type png)
+ <use  B4.png>
+Package pdftex.def Info:  B4.png used on input line 99.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 99--100
+ [][] 
+ []
+
+
+LaTeX Warning: File ` B5.png' not found on input line 104.
+
+< B5.png, id=16, 950.55125pt x 1042.89626pt>
+File:  B5.png Graphic file (type png)
+ <use  B5.png>
+Package pdftex.def Info:  B5.png used on input line 104.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 104--105
+ [][] 
+ []
+
+
+LaTeX Warning: File ` B6.png' not found on input line 109.
+
+< B6.png, id=17, 950.55125pt x 1042.89626pt>
+File:  B6.png Graphic file (type png)
+ <use  B6.png>
+Package pdftex.def Info:  B6.png used on input line 109.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 109--110
+ [][] 
+ []
+
+
+LaTeX Warning: File ` B7.png' not found on input line 115.
+
+< B7.png, id=18, 950.55125pt x 1042.89626pt>
+File:  B7.png Graphic file (type png)
+ <use  B7.png>
+Package pdftex.def Info:  B7.png used on input line 115.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 115--116
+ [][] 
+ []
+
+
+LaTeX Warning: File ` B8.png' not found on input line 120.
+
+< B8.png, id=19, 950.55125pt x 1042.89626pt>
+File:  B8.png Graphic file (type png)
+ <use  B8.png>
+Package pdftex.def Info:  B8.png used on input line 120.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 120--121
+ [][] 
+ []
+
+
+LaTeX Warning: File ` B9.png' not found on input line 125.
+
+< B9.png, id=20, 950.55125pt x 1042.89626pt>
+File:  B9.png Graphic file (type png)
+ <use  B9.png>
+Package pdftex.def Info:  B9.png used on input line 125.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 125--126
+ [][] 
+ []
+
+
+LaTeX Warning: File ` B10.png' not found on input line 130.
+
+< B10.png, id=21, 950.55125pt x 1042.89626pt>
+File:  B10.png Graphic file (type png)
+ <use  B10.png>
+Package pdftex.def Info:  B10.png used on input line 130.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 130--131
+ [][] 
+ []
+
+
+LaTeX Warning: File ` B11.png' not found on input line 135.
+
+< B11.png, id=22, 950.55125pt x 1042.89626pt>
+File:  B11.png Graphic file (type png)
+ <use  B11.png>
+Package pdftex.def Info:  B11.png used on input line 135.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 135--136
+ [][] 
+ []
+
+
+LaTeX Warning: File ` B12.png' not found on input line 140.
+
+< B12.png, id=23, 950.55125pt x 1042.89626pt>
+File:  B12.png Graphic file (type png)
+ <use  B12.png>
+Package pdftex.def Info:  B12.png used on input line 140.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 140--141
+ [][] 
+ []
+
+
+LaTeX Warning: File ` C1.png' not found on input line 145.
+
+< C1.png, id=24, 950.55125pt x 1042.89626pt>
+File:  C1.png Graphic file (type png)
+ <use  C1.png>
+Package pdftex.def Info:  C1.png used on input line 145.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 145--146
+ [][] 
+ []
+
+
+LaTeX Warning: File ` C2.png' not found on input line 150.
+
+< C2.png, id=25, 957.5775pt x 1042.89626pt>
+File:  C2.png Graphic file (type png)
+ <use  C2.png>
+Package pdftex.def Info:  C2.png used on input line 150.
+(pdftex.def)             Requested size: 478.78758pt x 521.44685pt.
+
+Overfull \hbox (133.78758pt too wide) in paragraph at lines 150--151
+ [][] 
+ []
+
+
+LaTeX Warning: File ` C3.png' not found on input line 155.
+
+< C3.png, id=26, 950.55125pt x 1042.89626pt>
+File:  C3.png Graphic file (type png)
+ <use  C3.png>
+Package pdftex.def Info:  C3.png used on input line 155.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 155--156
+ [][] 
+ []
+
+
+LaTeX Warning: File ` C4.png' not found on input line 160.
+
+< C4.png, id=27, 950.55125pt x 1042.89626pt>
+File:  C4.png Graphic file (type png)
+ <use  C4.png>
+Package pdftex.def Info:  C4.png used on input line 160.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 160--161
+ [][] 
+ []
+
+
+LaTeX Warning: File ` C5.png' not found on input line 165.
+
+< C5.png, id=28, 950.55125pt x 1042.89626pt>
+File:  C5.png Graphic file (type png)
+ <use  C5.png>
+Package pdftex.def Info:  C5.png used on input line 165.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 165--166
+ [][] 
+ []
+
+
+LaTeX Warning: File ` C6.png' not found on input line 170.
+
+< C6.png, id=29, 956.57375pt x 1042.89626pt>
+File:  C6.png Graphic file (type png)
+ <use  C6.png>
+Package pdftex.def Info:  C6.png used on input line 170.
+(pdftex.def)             Requested size: 478.2857pt x 521.44685pt.
+
+Overfull \hbox (133.2857pt too wide) in paragraph at lines 170--171
+ [][] 
+ []
+
+
+LaTeX Warning: File ` C7.png' not found on input line 175.
+
+< C7.png, id=30, 950.55125pt x 1042.89626pt>
+File:  C7.png Graphic file (type png)
+ <use  C7.png>
+Package pdftex.def Info:  C7.png used on input line 175.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 175--176
+ [][] 
+ []
+
+
+LaTeX Warning: File ` C8.png' not found on input line 180.
+
+< C8.png, id=31, 950.55125pt x 1042.89626pt>
+File:  C8.png Graphic file (type png)
+ <use  C8.png>
+Package pdftex.def Info:  C8.png used on input line 180.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 180--181
+ [][] 
+ []
+
+
+LaTeX Warning: File ` C9.png' not found on input line 185.
+
+< C9.png, id=32, 950.55125pt x 1042.89626pt>
+File:  C9.png Graphic file (type png)
+ <use  C9.png>
+Package pdftex.def Info:  C9.png used on input line 185.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 185--186
+ [][] 
+ []
+
+
+LaTeX Warning: File ` C10.png' not found on input line 190.
+
+< C10.png, id=33, 950.55125pt x 1042.89626pt>
+File:  C10.png Graphic file (type png)
+ <use  C10.png>
+Package pdftex.def Info:  C10.png used on input line 190.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 190--191
+ [][] 
+ []
+
+
+LaTeX Warning: File ` C11.png' not found on input line 195.
+
+< C11.png, id=34, 950.55125pt x 1042.89626pt>
+File:  C11.png Graphic file (type png)
+ <use  C11.png>
+Package pdftex.def Info:  C11.png used on input line 195.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 195--196
+ [][] 
+ []
+
+
+LaTeX Warning: File ` C12.png' not found on input line 200.
+
+< C12.png, id=35, 950.55125pt x 1042.89626pt>
+File:  C12.png Graphic file (type png)
+ <use  C12.png>
+Package pdftex.def Info:  C12.png used on input line 200.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 200--201
+ [][] 
+ []
+
+
+LaTeX Warning: File ` D1.png' not found on input line 206.
+
+< D1.png, id=36, 950.55125pt x 1042.89626pt>
+File:  D1.png Graphic file (type png)
+ <use  D1.png>
+Package pdftex.def Info:  D1.png used on input line 206.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 206--207
+ [][] 
+ []
+
+
+LaTeX Warning: File ` D2.png' not found on input line 211.
+
+< D2.png, id=37, 950.55125pt x 1042.89626pt>
+File:  D2.png Graphic file (type png)
+ <use  D2.png>
+Package pdftex.def Info:  D2.png used on input line 211.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 211--212
+ [][] 
+ []
+
+
+LaTeX Warning: File ` D3.png' not found on input line 216.
+
+< D3.png, id=38, 950.55125pt x 1042.89626pt>
+File:  D3.png Graphic file (type png)
+ <use  D3.png>
+Package pdftex.def Info:  D3.png used on input line 216.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 216--217
+ [][] 
+ []
+
+
+LaTeX Warning: File ` D4.png' not found on input line 221.
+
+< D4.png, id=39, 950.55125pt x 1042.89626pt>
+File:  D4.png Graphic file (type png)
+ <use  D4.png>
+Package pdftex.def Info:  D4.png used on input line 221.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 221--222
+ [][] 
+ []
+
+
+LaTeX Warning: File ` D5.png' not found on input line 226.
+
+< D5.png, id=40, 957.5775pt x 1042.89626pt>
+File:  D5.png Graphic file (type png)
+ <use  D5.png>
+Package pdftex.def Info:  D5.png used on input line 226.
+(pdftex.def)             Requested size: 478.78758pt x 521.44685pt.
+
+Overfull \hbox (133.78758pt too wide) in paragraph at lines 226--227
+ [][] 
+ []
+
+
+LaTeX Warning: File ` D6.png' not found on input line 231.
+
+< D6.png, id=41, 950.55125pt x 1042.89626pt>
+File:  D6.png Graphic file (type png)
+ <use  D6.png>
+Package pdftex.def Info:  D6.png used on input line 231.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 231--232
+ [][] 
+ []
+
+
+LaTeX Warning: File ` D7.png' not found on input line 236.
+
+< D7.png, id=42, 950.55125pt x 1042.89626pt>
+File:  D7.png Graphic file (type png)
+ <use  D7.png>
+Package pdftex.def Info:  D7.png used on input line 236.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 236--237
+ [][] 
+ []
+
+
+LaTeX Warning: File ` D8.png' not found on input line 241.
+
+< D8.png, id=43, 950.55125pt x 1042.89626pt>
+File:  D8.png Graphic file (type png)
+ <use  D8.png>
+Package pdftex.def Info:  D8.png used on input line 241.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 241--242
+ [][] 
+ []
+
+
+LaTeX Warning: File ` D9.png' not found on input line 246.
+
+< D9.png, id=44, 956.57375pt x 1042.89626pt>
+File:  D9.png Graphic file (type png)
+ <use  D9.png>
+Package pdftex.def Info:  D9.png used on input line 246.
+(pdftex.def)             Requested size: 478.2857pt x 521.44685pt.
+
+Overfull \hbox (133.2857pt too wide) in paragraph at lines 246--247
+ [][] 
+ []
+
+
+LaTeX Warning: File ` D10.png' not found on input line 251.
+
+< D10.png, id=45, 957.5775pt x 1042.89626pt>
+File:  D10.png Graphic file (type png)
+ <use  D10.png>
+Package pdftex.def Info:  D10.png used on input line 251.
+(pdftex.def)             Requested size: 478.78758pt x 521.44685pt.
+
+Overfull \hbox (133.78758pt too wide) in paragraph at lines 251--252
+ [][] 
+ []
+
+
+LaTeX Warning: File ` D11.png' not found on input line 256.
+
+< D11.png, id=46, 950.55125pt x 1042.89626pt>
+File:  D11.png Graphic file (type png)
+ <use  D11.png>
+Package pdftex.def Info:  D11.png used on input line 256.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 256--257
+ [][] 
+ []
+
+
+LaTeX Warning: File ` D12.png' not found on input line 261.
+
+< D12.png, id=47, 950.55125pt x 1042.89626pt>
+File:  D12.png Graphic file (type png)
+ <use  D12.png>
+Package pdftex.def Info:  D12.png used on input line 261.
+(pdftex.def)             Requested size: 475.27446pt x 521.44685pt.
+
+Overfull \hbox (130.27446pt too wide) in paragraph at lines 261--262
+ [][] 
+ []
+
+[1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: Text page 2 contains only floats.
+
+[2 <./ A3.png>]
+
+LaTeX Warning: Text page 3 contains only floats.
+
+[3 <./ A4.png>]
+
+LaTeX Warning: Text page 4 contains only floats.
+
+[4 <./ A5.png>]
+
+LaTeX Warning: Text page 5 contains only floats.
+
+[5 <./ A6.png>]
+
+LaTeX Warning: Text page 6 contains only floats.
+
+[6 <./ A7.png>]
+
+LaTeX Warning: Text page 7 contains only floats.
+
+[7 <./ A8.png>]
+
+LaTeX Warning: Text page 8 contains only floats.
+
+[8 <./ A9.png>]
+
+LaTeX Warning: Text page 9 contains only floats.
+
+[9 <./ A10.png>]
+
+LaTeX Warning: Text page 10 contains only floats.
+
+[10 <./ A11.png>]
+
+LaTeX Warning: Text page 11 contains only floats.
+
+[11 <./ A12.png>]
+
+LaTeX Warning: Text page 12 contains only floats.
+
+[12 <./ B1.png>]
+
+LaTeX Warning: Text page 13 contains only floats.
+
+[13 <./ B2.png>]
+
+LaTeX Warning: Text page 14 contains only floats.
+
+[14 <./ B3.png>]
+
+LaTeX Warning: Text page 15 contains only floats.
+
+[15 <./ B4.png>]
+
+LaTeX Warning: Text page 16 contains only floats.
+
+[16 <./ B5.png>]
+
+LaTeX Warning: Text page 17 contains only floats.
+
+[17 <./ B6.png>]
+
+LaTeX Warning: Text page 18 contains only floats.
+
+[18 <./ B7.png>]
+
+LaTeX Warning: Text page 19 contains only floats.
+
+[19 <./ B8.png>]
+
+LaTeX Warning: Text page 20 contains only floats.
+
+[20 <./ B9.png>]
+
+LaTeX Warning: Text page 21 contains only floats.
+
+[21 <./ B10.png>]
+
+LaTeX Warning: Text page 22 contains only floats.
+
+[22 <./ B11.png>]
+
+LaTeX Warning: Text page 23 contains only floats.
+
+[23 <./ B12.png>]
+
+LaTeX Warning: Text page 24 contains only floats.
+
+[24 <./ C1.png>]
+
+LaTeX Warning: Text page 25 contains only floats.
+
+[25 <./ C2.png>]
+
+LaTeX Warning: Text page 26 contains only floats.
+
+[26 <./ C3.png>]
+
+LaTeX Warning: Text page 27 contains only floats.
+
+[27 <./ C4.png>]
+
+LaTeX Warning: Text page 28 contains only floats.
+
+[28 <./ C5.png>]
+
+LaTeX Warning: Text page 29 contains only floats.
+
+[29 <./ C6.png>]
+
+LaTeX Warning: Text page 30 contains only floats.
+
+[30 <./ C7.png>]
+
+LaTeX Warning: Text page 31 contains only floats.
+
+[31 <./ C8.png>]
+
+LaTeX Warning: Text page 32 contains only floats.
+
+[32 <./ C9.png>]
+
+LaTeX Warning: Text page 33 contains only floats.
+
+[33 <./ C10.png>]
+
+LaTeX Warning: Text page 34 contains only floats.
+
+[34 <./ C11.png>]
+
+LaTeX Warning: Text page 35 contains only floats.
+
+[35 <./ C12.png>]
+
+LaTeX Warning: Text page 36 contains only floats.
+
+[36 <./ D1.png>]
+
+LaTeX Warning: Text page 37 contains only floats.
+
+[37 <./ D2.png>]
+
+LaTeX Warning: Text page 38 contains only floats.
+
+[38 <./ D3.png>]
+
+LaTeX Warning: Text page 39 contains only floats.
+
+[39 <./ D4.png>]
+
+LaTeX Warning: Text page 40 contains only floats.
+
+[40 <./ D5.png>]
+
+LaTeX Warning: Text page 41 contains only floats.
+
+[41 <./ D6.png>]
+
+LaTeX Warning: Text page 42 contains only floats.
+
+[42 <./ D7.png>]
+
+LaTeX Warning: Text page 43 contains only floats.
+
+[43 <./ D8.png>]
+
+LaTeX Warning: Text page 44 contains only floats.
+
+[44 <./ D9.png>]
+
+LaTeX Warning: Text page 45 contains only floats.
+
+[45 <./ D10.png>]
+
+LaTeX Warning: Text page 46 contains only floats.
+
+[46 <./ D11.png>]
+
+LaTeX Warning: Text page 47 contains only floats.
+
+[47 <./ D12.png>] (./Report v01.aux) ) 
+Here is how much of TeX's memory you used:
+ 1712 strings out of 493014
+ 23915 string characters out of 6133351
+ 86509 words of memory out of 5000000
+ 5219 multiletter control sequences out of 15000+600000
+ 7021 words of font info for 25 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,6n,23p,416b,211s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2016/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmti10.pfb>
+Output written on "Report v01.pdf" (47 pages, 4011679 bytes).
+PDF statistics:
+ 278 PDF objects out of 1000 (max. 8388607)
+ 128 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 231 words of extra memory for PDF output out of 10000 (max. 10000000)
+
